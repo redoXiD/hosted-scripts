@@ -1,5 +1,6 @@
 #!/bin/bash
 # thx flyingsausages and swizzin team
+# based on the overseerr install script
 export user=$(whoami)
 mkdir -p ~/.logs/
 touch ~/.logs/jellyseerr.log
